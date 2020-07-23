@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  node_cert_exporter:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-23T12:21:28.392660995+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 96e3e3bd35b8b3cb38a75ae7be90f288db810b55af9a0656325258910a8c1b39
+    name: node_cert_exporter
+    type: application
+    urls:
+    - node_cert_exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-23T12:21:28.390386492+01:00"
